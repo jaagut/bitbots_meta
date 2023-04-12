@@ -9,6 +9,7 @@
 [submodule "bitbots_misc"]
 	path = bitbots_misc
 	url = ../../bit-bots/bitbots_misc.git
+	branch = feature/add_record_rosbag_launch
 [submodule "bitbots_motion"]
 	path = bitbots_motion
 	url = ../../bit-bots/bitbots_motion.git
@@ -45,6 +46,7 @@
 [submodule "wolfgang_robot"]
 	path = wolfgang_robot
 	url = ../../bit-bots/wolfgang_robot.git
+	branch = feature/use_record_rosbag_utils
 
 
 # Own libraries in lib directory
